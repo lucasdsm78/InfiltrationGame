@@ -761,3 +761,178 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.27-19.11.08:983][651]SourceControl: Error: warning: could not open directory 'infiltra/Content/AnimStarterPack/Infiltrator/': No such file or directory
 [2022.10.27-19.11.09:411][662]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SKM_Manny_Simple) ...
 [2022.10.27-19.11.09:994][727]LogDerivedDataCache: C:/Users/Williams-K/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:54.007 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.27-19.13.33:984][321]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.10.27-19.13.34:057][321]LogContentBrowser: Creating deferred item: NewFolder
+[2022.10.27-19.13.34:074][323]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.10.27-19.13.38:436][822]LogContentBrowser: Attempting asset rename: NewFolder -> Maps
+[2022.10.27-19.13.38:437][822]LogContentBrowser: End creating deferred item NewFolder
+[2022.10.27-19.13.41:343][107]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.10.27-19.13.41:358][107]LogContentBrowser: Creating deferred item: NewFolder
+[2022.10.27-19.13.41:363][108]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.10.27-19.13.42:787][263]LogContentBrowser: Attempting asset rename: NewFolder -> Ui
+[2022.10.27-19.13.42:787][263]LogContentBrowser: End creating deferred item NewFolder
+[2022.10.27-19.13.47:725][813]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.10.27-19.13.47:741][813]LogContentBrowser: Creating deferred item: NewFolder
+[2022.10.27-19.13.47:747][814]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.10.27-19.13.52:646][375]LogContentBrowser: Attempting asset rename: NewFolder -> Characters
+[2022.10.27-19.13.52:646][375]LogContentBrowser: End creating deferred item NewFolder
+[2022.10.27-19.13.56:527][776]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.10.27-19.13.56:543][776]LogContentBrowser: Creating deferred item: NewFolder
+[2022.10.27-19.13.56:564][778]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.10.27-19.14.03:454][590]LogContentBrowser: Attempting asset rename: NewFolder -> CharactersBP
+[2022.10.27-19.14.03:456][590]LogContentBrowser: End creating deferred item NewFolder
+[2022.10.27-19.14.36:535][460]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.27-19.14.39:360][460]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.10.27-19.14.39:369][460]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.10.27-19.14.39:373][460]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.10.27-19.14.39:413][462]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.10.27-19.14.44:192][997]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Hero
+[2022.10.27-19.14.44:376][997]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.10.27-19.14.52:515][635]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.10.27-19.14.52:524][635]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.10.27-19.14.52:529][635]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.10.27-19.14.52:536][636]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.10.27-19.14.53:271][704]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2022.10.27-19.14.53:382][704]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.10.27-19.14.54:641][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.10.27-19.14.56:152][845]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.27-19.14.56:236][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.10.27-19.15.03:474][965]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.27-19.15.05:883][965]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.10.27-19.15.07:763][121]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.27-19.15.07:763][121]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.27-19.15.16:007][ 93]LogContentBrowser: Attempting asset rename: BP_Hero -> BP_UnitCharacter
+[2022.10.27-19.15.16:664][ 93]LogMetaData: Removing '/Game/Infiltrator/Characters/CharactersBP/BP_UnitCharacter.BP_UnitCharacter:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Infiltrator/Characters/CharactersBP/BP_Hero.PackageMetaData'
+[2022.10.27-19.15.16:664][ 93]LogMetaData: Removing '/Game/Infiltrator/Characters/CharactersBP/BP_UnitCharacter.SKEL_BP_UnitCharacter_C:UserConstructionScript' ref from Metadata '/Game/Infiltrator/Characters/CharactersBP/BP_Hero.PackageMetaData'
+[2022.10.27-19.15.16:664][ 93]LogMetaData: Removing '/Game/Infiltrator/Characters/CharactersBP/BP_UnitCharacter.SKEL_BP_UnitCharacter_C' ref from Metadata '/Game/Infiltrator/Characters/CharactersBP/BP_Hero.PackageMetaData'
+[2022.10.27-19.15.16:664][ 93]LogMetaData: Removing '/Game/Infiltrator/Characters/CharactersBP/BP_UnitCharacter.BP_UnitCharacter_C' ref from Metadata '/Game/Infiltrator/Characters/CharactersBP/BP_Hero.PackageMetaData'
+[2022.10.27-19.15.16:664][ 93]LogMetaData: Removing '/Game/Infiltrator/Characters/CharactersBP/BP_UnitCharacter.BP_UnitCharacter:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Infiltrator/Characters/CharactersBP/BP_Hero.PackageMetaData'
+[2022.10.27-19.15.16:664][ 93]LogMetaData: Removing '/Game/Infiltrator/Characters/CharactersBP/BP_UnitCharacter.BP_UnitCharacter:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Infiltrator/Characters/CharactersBP/BP_Hero.PackageMetaData'
+[2022.10.27-19.15.16:664][ 93]LogMetaData: Removing '/Game/Infiltrator/Characters/CharactersBP/BP_UnitCharacter.BP_UnitCharacter:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Infiltrator/Characters/CharactersBP/BP_Hero.PackageMetaData'
+[2022.10.27-19.15.16:721][ 93]LogPackageLocalizationCache: Processed 29 localized package path(s) for 1 prioritized culture(s) in 0.003314 seconds
+[2022.10.27-19.15.16:726][ 93]LogSavePackage: Moving output files for package: /Game/Infiltrator/Characters/CharactersBP/BP_UnitCharacter
+[2022.10.27-19.15.16:726][ 93]LogSavePackage: Moving 'C:/Users/Williams-K/Desktop/cours/InfiltrationGameHUb/infiltra/Saved/BP_UnitCharacter149FA83A4EC6A23E1E8F849C4D235E2A.tmp' to 'C:/Users/Williams-K/Desktop/cours/InfiltrationGameHUb/infiltra/Content/Infiltrator/Characters/CharactersBP/BP_UnitCharacter.uasset'
+[2022.10.27-19.15.17:170][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.10.27-19.15.17:178][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.10.27-19.15.17:185][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.10.27-19.15.17:187][ 93]AssetCheck: New page: Asset Save: BP_UnitCharacter
+[2022.10.27-19.15.17:187][ 93]LogContentValidation: Display: Validating Blueprint /Game/Infiltrator/Characters/CharactersBP/BP_UnitCharacter.BP_UnitCharacter
+[2022.10.27-19.15.33:779][708]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.10.27-19.15.33:787][708]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.10.27-19.15.33:793][708]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.10.27-19.15.33:801][709]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.10.27-19.15.43:994][884]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Hero
+[2022.10.27-19.15.44:116][884]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.10.27-19.15.47:607][226]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.27-19.15.56:427][226]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.10.27-19.15.56:436][226]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.10.27-19.15.56:441][226]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.10.27-19.15.56:449][227]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.10.27-19.16.07:960][532]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_IA
+[2022.10.27-19.16.08:079][532]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.10.27-19.16.10:452][808]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Infiltrator/Characters/CharactersBP/BP_UnitCharacter.BP_UnitCharacter
+[2022.10.27-19.16.10:454][808]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.27-19.16.11:590][808]LogViewport: Scene viewport resized to 878x686, mode Windowed.
+[2022.10.27-19.16.14:263][ 38]LogSlate: Took 0.000264 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.10.27-19.17.13:845][193]LogSlate: Took 0.036607 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.10.27-19.17.26:086][432]LogSavePackage: Moving output files for package: /Game/Infiltrator/Characters/CharactersBP/BP_UnitCharacter
+[2022.10.27-19.17.26:087][432]LogSavePackage: Moving 'C:/Users/Williams-K/Desktop/cours/InfiltrationGameHUb/infiltra/Saved/BP_UnitCharacter296847214DBCFE42B4830A9D4163C694.tmp' to 'C:/Users/Williams-K/Desktop/cours/InfiltrationGameHUb/infiltra/Content/Infiltrator/Characters/CharactersBP/BP_UnitCharacter.uasset'
+[2022.10.27-19.17.26:100][432]AssetCheck: New page: Asset Save: BP_UnitCharacter
+[2022.10.27-19.17.26:100][432]LogContentValidation: Display: Validating Blueprint /Game/Infiltrator/Characters/CharactersBP/BP_UnitCharacter.BP_UnitCharacter
+[2022.10.27-19.17.26:566][480]BlueprintLog: New page: Compile BP_UnitCharacter
+[2022.10.27-19.17.26:618][480]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.10.27-19.17.31:251][903]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.27-19.17.33:370][ 77]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.10.27-19.17.46:468][461]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SKM_Manny) ...
+[2022.10.27-19.17.58:943][472]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2022.10.27-19.17.58:989][472]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.27-19.18.16:072][221]LogSavePackage: Moving output files for package: /Game/Infiltrator/Characters/CharactersBP/BP_UnitCharacter
+[2022.10.27-19.18.16:072][221]LogSavePackage: Moving 'C:/Users/Williams-K/Desktop/cours/InfiltrationGameHUb/infiltra/Saved/BP_UnitCharacter917FF0FA4EE9BE2CC2C21C8813E56591.tmp' to 'C:/Users/Williams-K/Desktop/cours/InfiltrationGameHUb/infiltra/Content/Infiltrator/Characters/CharactersBP/BP_UnitCharacter.uasset'
+[2022.10.27-19.18.16:086][221]AssetCheck: New page: Asset Save: BP_UnitCharacter
+[2022.10.27-19.18.16:086][221]LogContentValidation: Display: Validating Blueprint /Game/Infiltrator/Characters/CharactersBP/BP_UnitCharacter.BP_UnitCharacter
+[2022.10.27-19.18.16:534][260]BlueprintLog: New page: Compile BP_UnitCharacter
+[2022.10.27-19.18.16:632][260]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.10.27-19.18.47:120][626]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.27-19.18.47:120][626]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.27-19.18.49:713][900]LogContentBrowser: Deferred new asset file creation: BS_MM_WalkRun1
+[2022.10.27-19.18.49:724][900]LogContentBrowser: Creating deferred item: BS_MM_WalkRun1
+[2022.10.27-19.18.49:731][901]LogContentBrowser: Renaming the item being created (Deferred Item: BS_MM_WalkRun1).
+[2022.10.27-19.19.00:571][168]LogContentBrowser: Attempting asset rename: BS_MM_WalkRun1 -> BS_Hero
+[2022.10.27-19.19.00:866][168]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/Manny/BS_Hero
+[2022.10.27-19.19.00:867][168]LogSavePackage: Moving 'C:/Users/Williams-K/Desktop/cours/InfiltrationGameHUb/infiltra/Saved/BS_Hero76162CC549E333E6D54A4B87322C3871.tmp' to 'C:/Users/Williams-K/Desktop/cours/InfiltrationGameHUb/infiltra/Content/Characters/Mannequins/Animations/Manny/BS_Hero.uasset'
+[2022.10.27-19.19.01:279][168]LogContentBrowser: End creating deferred item BS_MM_WalkRun1
+[2022.10.27-19.19.01:285][168]AssetCheck: New page: Asset Save: BS_Hero
+[2022.10.27-19.19.01:285][168]LogContentValidation: Display: Validating BlendSpace1D /Game/Characters/Mannequins/Animations/Manny/BS_Hero.BS_Hero
+[2022.10.27-19.19.10:401][151]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SKM_Quinn) ...
+[2022.10.27-19.19.31:729][429]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.10.27-19.19.31:744][429]LogContentBrowser: Creating deferred item: NewFolder
+[2022.10.27-19.19.31:751][430]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.10.27-19.19.36:157][944]LogContentBrowser: Attempting asset rename: NewFolder -> Anim
+[2022.10.27-19.19.36:157][944]LogContentBrowser: End creating deferred item NewFolder
+[2022.10.27-19.19.45:631][883]LogSavePackage: Moving output files for package: /Game/Infiltrator/Characters/Anim/BS_Hero
+[2022.10.27-19.19.45:631][883]LogSavePackage: Moving 'C:/Users/Williams-K/Desktop/cours/InfiltrationGameHUb/infiltra/Saved/BS_Hero8752EC934B1C09B2EB9832B19E8F14C0.tmp' to 'C:/Users/Williams-K/Desktop/cours/InfiltrationGameHUb/infiltra/Content/Infiltrator/Characters/Anim/BS_Hero.uasset'
+[2022.10.27-19.19.46:155][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.10.27-19.19.46:184][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.10.27-19.19.46:209][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.10.27-19.19.46:360][883]SourceControl: rm 'infiltra/Content/Characters/Mannequins/Animations/Manny/BS_Hero.uasset'
+[2022.10.27-19.19.46:379][883]AssetCheck: New page: Asset Save: BS_Hero
+[2022.10.27-19.19.46:379][883]LogContentValidation: Display: Validating BlendSpace1D /Game/Infiltrator/Characters/Anim/BS_Hero.BS_Hero
+[2022.10.27-19.19.48:766][132]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/Infiltrator/Characters/Anim/BS_Hero.BS_Hero
+[2022.10.27-19.19.48:785][132]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.27-19.19.48:817][132]LogTexture: Display: Waiting for textures to be ready 0/1 (/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1) ...
+[2022.10.27-19.19.48:823][132]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.10.27-19.19.49:021][132]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.27-19.19.49:570][132]LogViewport: Scene viewport resized to 1141x534, mode Windowed.
+[2022.10.27-19.19.49:609][132]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.10.27-19.19.55:003][434]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2022.10.27-19.20.00:046][764]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.10.27-19.20.00:046][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-19.20.00:105][764]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.10.27-19.20.00:105][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-19.20.02:541][926]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.27-19.20.03:843][ 21]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.27-19.21.08:376][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.10.27-19.21.08:377][815]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_2' took 0.068
+[2022.10.27-19.21.08:378][815]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Infiltrator/Characters/CharactersBP/BP_Hero] ([2] browsable assets)...
+[2022.10.27-19.21.08:428][815]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Infiltrator/Characters/CharactersBP/BP_Hero.BP_Hero]
+[2022.10.27-19.21.08:461][815]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Infiltrator/Characters/CharactersBP/BP_Hero.BP_Hero_C]
+[2022.10.27-19.21.08:461][815]OBJ SavePackage: Finished generating thumbnails for package [/Game/Infiltrator/Characters/CharactersBP/BP_Hero]
+[2022.10.27-19.21.08:467][815]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Infiltrator/Characters/CharactersBP/BP_Hero_Auto1
+[2022.10.27-19.21.08:467][815]LogSavePackage: Moving 'C:/Users/Williams-K/Desktop/cours/InfiltrationGameHUb/infiltra/Saved/BP_Hero_Auto13FD38F1F4F4D7AE16003B99E4E26A2E6.tmp' to 'C:/Users/Williams-K/Desktop/cours/InfiltrationGameHUb/infiltra/Saved/Autosaves/Game/Infiltrator/Characters/CharactersBP/BP_Hero_Auto1.uasset'
+[2022.10.27-19.21.08:468][815]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Infiltrator/Characters/CharactersBP/BP_IA] ([2] browsable assets)...
+[2022.10.27-19.21.08:484][815]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Infiltrator/Characters/CharactersBP/BP_IA.BP_IA]
+[2022.10.27-19.21.08:515][815]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Infiltrator/Characters/CharactersBP/BP_IA.BP_IA_C]
+[2022.10.27-19.21.08:515][815]OBJ SavePackage: Finished generating thumbnails for package [/Game/Infiltrator/Characters/CharactersBP/BP_IA]
+[2022.10.27-19.21.08:522][815]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Infiltrator/Characters/CharactersBP/BP_IA_Auto1
+[2022.10.27-19.21.08:522][815]LogSavePackage: Moving 'C:/Users/Williams-K/Desktop/cours/InfiltrationGameHUb/infiltra/Saved/BP_IA_Auto1E7B1408A4459F3C89B0429B24F2518D6.tmp' to 'C:/Users/Williams-K/Desktop/cours/InfiltrationGameHUb/infiltra/Saved/Autosaves/Game/Infiltrator/Characters/CharactersBP/BP_IA_Auto1.uasset'
+[2022.10.27-19.21.08:523][815]LogFileHelpers: Auto-saving content packages took 0.146
+[2022.10.27-19.21.32:369][887]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/Williams-K/Desktop/cours/InfiltrationGameHUb/infiltra/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2022.10.27-19.21.32:369][887]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/Williams-K/Desktop/cours/InfiltrationGameHUb/infiltra/Content/Developers/WilliamsK/Collections/' because it could not be accessed. Aborting watch request...
+[2022.10.27-19.21.32:369][887]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/Williams-K/Desktop/cours/InfiltrationGameHUb/infiltra/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2022.10.27-19.22.07:218][  6]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.10.27-19.22.08:857][  6]LogSlate: Window 'Save Content' being destroyed
+[2022.10.27-19.22.08:934][  6]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2022.10.27-19.22.08:934][  6]Cmd: MAP LOAD FILE="C:/Users/Williams-K/Desktop/cours/InfiltrationGameHUb/infiltra/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.27-19.22.08:934][  6]LightingResults: New page: Lighting Build
+[2022.10.27-19.22.08:935][  6]LoadErrors: New page: Loading map: ThirdPersonMap.umap
+[2022.10.27-19.22.08:936][  6]LogWorld: UWorld::CleanupWorld for Untitled_2, bSessionEnded=true, bCleanupResources=true
+[2022.10.27-19.22.08:936][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-19.22.08:936][  6]MapCheck: New page: Map Check
+[2022.10.27-19.22.08:936][  6]LightingResults: New page: Lighting Build
+[2022.10.27-19.22.08:967][  6]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.27-19.22.08:970][  6]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.10.27-19.22.08:973][  6]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.27-19.22.08:973][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-19.22.09:007][  6]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.10.27-19.22.09:040][  6]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2022.10.27-19.22.09:046][  6]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2022.10.27-19.22.09:046][  6]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.27-19.22.09:047][  6]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.10.27-19.22.09:047][  6]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.27-19.22.09:047][  6]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.10.27-19.22.09:075][  6]LogWorldPartition: Display: WorldPartition initialize took 27 ms
+[2022.10.27-19.22.09:078][  6]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.27-19.22.09:115][  6]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.10.27-19.22.09:125][  6]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.27-19.22.09:127][  6]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,446ms to complete.
+[2022.10.27-19.22.09:127][  6]LogFileHelpers: Loading map 'ThirdPersonMap' took 0.193
